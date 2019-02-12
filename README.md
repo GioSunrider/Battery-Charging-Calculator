@@ -1,5 +1,5 @@
-## Battery Charging Calculator
-
+# Battery Charging Calculator
+A Li-Po/Li-Ion battery calculator for Android devices.
 
 ## License 
 
