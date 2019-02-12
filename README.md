@@ -1,21 +1,5 @@
-<img src="images/logo_Uc3m.png" width="700" align = "center">
+## Battery Charging Calculator
 
-# OmniRobot
-Diseño e implementación de un robot omnidireccional para fines de entretenimiento. Proyecto de Final de Grado de Ingeniería Electrónica Industrial y Automática por la Universidad Carlos III de Madrid. 
-
-<img src="images/OmniRobot.jpg" width="700" align = "center">
-
-## BOM (Build Of Materials)
-
-* [Pololu Dual MC33926 Motor Driver Carrier](https://www.pololu.com/product/1213)
-* [Omni Wheel 40x28mm Plástico](https://hobbyking.com/es_es/40x28mm-plastic-omni-wheel-2pcs-bag.html)
-* Partes Impresas en **PETG** de [Fiberlogy](https://fiberlogy.com/en/fiberlogy-filaments/filament-pet-g/)
-
-<img src="images/asrob.png" width="150" align = "right">
-
-## Contributors
-
- - [Asociación de Robótica de la Universidad Carlos III de Madrid](https://asrob.uc3m.es/)
 
 ## License 
 
